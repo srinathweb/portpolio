@@ -16,12 +16,12 @@ baseurl: /srinathweb/
 title: Srinath Madusanka
 author: Srinath Madusanka
 description: Personal blog and resume
-avatar: profile.png
+avatar: srinath.png
 email: madusanka525@gmail.com
 github: srinathweb # username
 twitter: 
 linkedin: 
-stackoverflow: username   #e.g: users/2735833/proton1h1
+stackoverflow: /users/2315073/srinath   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
 #google_analytics: UA-69391421-1
