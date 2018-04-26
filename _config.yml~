@@ -28,4 +28,4 @@ stackoverflow: /users/2315073/srinath   #e.g: users/2735833/proton1h1
 
 
 # needed for travis-ci build
-exclude: [vendor]
+exclude: [vendor] 
